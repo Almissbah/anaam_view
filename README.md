@@ -1,5 +1,5 @@
 # Anaam 
-Android and PHP web application for ordering fresh meets.
+Android and PHP web application for ordering fresh meat.
 
 ## ScreenShots:
  <img src="screen2.jpg" width="300">  <img src="screen4.jpg" width="300">  <img src="screen5.jpg" width="300"> 
